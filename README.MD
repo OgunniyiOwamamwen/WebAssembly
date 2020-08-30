@@ -1,2 +1,2 @@
 #Web Assembly By Owamamwen Ogunniyi
-Simple example webassembly using Cplusplus convert to wasm,
+Simple example webassembly use Cplusplus convert to wasm,
